@@ -8,5 +8,6 @@ If my tools help you find any great bounties, consider [BUYING ME A COFFEE](http
 [![Mastodon](https://img.shields.io/badge/-@xnl__h4ck3r-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white&label=infosec.exchange)](https://infosec.exchange/@Xnl_h4ck3r)
 
 <link rel="me" href="https://infosec.exchange/@Xnl_h4ck3r">
+<a rel="me" href="https://infosec.exchange/@Xnl_h4ck3r">&nbsp;</a>
 </div>
 
