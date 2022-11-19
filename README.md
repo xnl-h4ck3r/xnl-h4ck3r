@@ -7,6 +7,6 @@ If my tools help you find any great bounties, consider [BUYING ME A COFFEE](http
 [![Twitter](https://img.shields.io/badge/-@xnl__h4ck3r-%232B90D9?style=for-the-badge&logo=twitter&logoColor=white&label=twitter)](https://twitter.com/xnl_h4ck3r)&nbsp;
 [![Mastodon](https://img.shields.io/badge/-@xnl__h4ck3r-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white&label=infosec.exchange)](https://infosec.exchange/@Xnl_h4ck3r)
 
-<a href="https://infosec.exchange/@Xnl_h4ck3r" rel="me"></a>
+<link rel="me" href="https://infosec.exchange/@mXnl_h4ck3r">
 </div>
 
