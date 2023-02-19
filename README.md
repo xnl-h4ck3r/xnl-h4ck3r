@@ -9,5 +9,6 @@ If my tools help you find any great bounties, consider [BUYING ME A COFFEE](http
 
 <link rel="me" href="https://infosec.exchange/@Xnl_h4ck3r">
 <a rel="me" href="https://infosec.exchange/@Xnl_h4ck3r">&nbsp;</a>
-</div>
 
+<a href='https://ko-fi.com/B0B3CZKR5' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
