@@ -4,7 +4,8 @@
 
 If my tools help you find any great bounties, consider [BUYING ME A COFFEE](https://ko-fi.com/xnlh4ck3r) ☕ (I could use the caffeine!)...
 
-[![Twitter](https://img.shields.io/badge/-@xnl__h4ck3r-%232B90D9?style=for-the-badge&logo=twitter&logoColor=white&label=twitter)](https://twitter.com/xnl_h4ck3r)&nbsp;
+[![Twitter](https://img.shields.io/badge/-@xnl__h4ck3r-%232B90D9?style=for-the-badge&logo=x&logoColor=white&label=twitter)](https://twitter.com/xnl_h4ck3r)&nbsp;
+[![BlueSky](https://img.shields.io/badge/-@xnl--h4ck3r-%232B90D9?style=for-the-badge&logo=bluesky&logoColor=white&label=bluesky)](https://bsky.app/profile/xnl-h4ck3r.bsky.social)&nbsp;
 [![Mastodon](https://img.shields.io/badge/-@xnl__h4ck3r-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white&label=infosec.exchange)](https://infosec.exchange/@Xnl_h4ck3r)
 
 <link rel="me" href="https://infosec.exchange/@Xnl_h4ck3r">
