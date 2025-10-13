@@ -14,4 +14,7 @@ If my tools help you find any great bounties, consider [BUYING ME A COFFEE](http
 <a href='https://ko-fi.com/B0B3CZKR5' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
-<centre>![](https://github-profile-trophy.vercel.app/?username=xnl-h4ck3r&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)</center>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=xnl-h4ck3r&theme=tokyonight&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=false" />
+</div>
+
