@@ -15,6 +15,7 @@ If my tools help you find any great bounties, consider [BUYING ME A COFFEE](http
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xnl-h4ck3r&theme=tokyonight&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=false" />
+  <img src="https://github-profile-trophy.vercel.app/?username=xnl-h4ck3r&theme=tokyonight&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=false" />
 </div>
+
 
